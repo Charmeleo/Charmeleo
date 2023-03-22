@@ -1,4 +1,4 @@
-- 👋 olá meu nome é Lawzin3B
+- 👋 olá meu nome é Marcos
 - 👀 Meu email de contato é marcosviniidr202@gmail.com
 - 🌱 Eu estou interessado a programar novas linguagens
 - 💞️ Eu estou aprendendo a programar recentemente a linguagm de JavaScript e Scratch
